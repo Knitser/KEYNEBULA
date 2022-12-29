@@ -1,3 +1,4 @@
 # Keyboard
 
 http://www.keyboard-layout-editor.com/
+http://www.keyboard-layout-editor.com/##@@_c=%23000000&t=%23cccccc&a:7%3B&=ESC&_c=%23cccccc&t=%23000000&a:5&f:5%3B&=!%0A1&=%2F@%0A2&=%23%0A3&=$%0A4&=%25%0A5&=%5E%0A6&=%2F&%0A7&=*%0A8&=(%0A9&=)%0A0&=%2F_%0A-&=+%0A%2F=&_a:7&f:3&w:2%3B&=BACKSPACE%3B&@_f:4&w:1.5%3B&=TAB&_sm=cherry&sb=gateron&f:5%3B&=Q&=W&=E&=R&=T&=Y&=U&=I&=O&=P&_a:5&f:4%3B&=%7B%0A%5B&=%7D%0A%5D&_f:5&w:1.5%3B&=%7C%0A%5C%3B&@_a:7&f:4&w:1.75%3B&=CAPSLOCK&_f:5%3B&=A&=S&=D&=F&=G&=H&=J&=K&=L&_a:5%3B&=%2F:%0A%2F%3B&=%22%0A'&_c=%23000000&t=%23cccccc&a:7&f:4&w:2.25%3B&=ENTER%3B&@_c=%23cccccc&t=%23000000&w:2.25%3B&=SHIFT&_f:5%3B&=Z&=X&=C&=V&=B&=N&=M&_a:5%3B&=%3C%0A,&=%3E%0A.&=%3F%0A%2F%2F&_a:7&f:4&w:2.75%3B&=SHIFT%3B&@_w:1.25%3B&=CTRL&_w:1.25%3B&=WIN&_w:1.25%3B&=ALT&_f:3&w:6.25%3B&=&_f:4&w:1.25%3B&=ALT&_w:1.25%3B&=MENU&_w:1.25%3B&=FN&_w:1.25%3B&=CTRL
