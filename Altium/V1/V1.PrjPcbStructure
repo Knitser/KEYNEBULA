@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=V1.SchDoc|SheetNumber= 
+Record=SheetSymbol|SourceDocument=V1.SchDoc|Designator=U_ControllerUSBC|SchDesignator=U_ControllerUSBC|FileName=ControllerUSBC.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=ControllerUSBC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=V1.SchDoc|Designator=U_KeyMatrix|SchDesignator=U_KeyMatrix|FileName=KeyMatrix.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=KeyMatrix.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

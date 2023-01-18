@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\michi\OneDrive - Bond Mobility\BOND\Altium\Mechanical Keyboards\Altium\Default_ANSI60\default_60.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=complaintest-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=complaintest-slotholes.txt|DrillLayers=gtl,gbl

@@ -1,4 +1,4 @@
-[Design]
+﻿[Design]
 Version=1.0
 HierarchyMode=0
 ChannelRoomNamingStyle=0
@@ -35,6 +35,10 @@ IsProjectConflictPreventionWarningsEnabled=1
 IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
+ManagedProjectGUID=E130CF9D-1BFD-49E2-967C-214CD5AA7D51
+VaultGUID=B197A1FA-750C-431E-81AE-408A7C1E5408
+ReleaseVaultName=Keynebula
+ItemGUID=E130CF9D-1BFD-49E2-967C-214CD5AA7D51
 IncludeDesignInRelease=0
 CrossRefSheetStyle=1
 CrossRefLocationStyle=1

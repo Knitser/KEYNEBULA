@@ -1,0 +1,34 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [default_60.PcbDoc]
+   Generated File[default_60.GTO]
+   Generated File[default_60.GTP]
+   Generated File[default_60.GTS]
+   Generated File[default_60.GTL]
+   Generated File[default_60.GBL]
+   Generated File[default_60.GBS]
+   Generated File[default_60.GBP]
+   Generated File[default_60.GBO]
+   Generated File[default_60.GM1]
+   Generated File[default_60.GM2]
+   Generated File[default_60.GM7]
+   Generated File[default_60.GM11]
+   Generated File[default_60.GM13]
+   Generated File[default_60.GM15]
+   Generated File[default_60.GM18]
+   Generated File[default_60.GKO]
+   Generated File[default_60.GPT]
+   Generated File[default_60.GPB]
+   Generated File[default_60.1]
+   Generated File[default_60.GML]
+   Generated File[default_60.GD1]
+   Generated File[default_60.GG1]
+   Generated File[default_60.RUL]
+   Generated File[default_60.EXTREP]
+   Generated File[default_60.REP]
+
+
+Files Generated   : 25
+Documents Printed : 0
+
+Finished Output Generation At 5:51:20 PM On 10/24/2020
